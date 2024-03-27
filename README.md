@@ -6,6 +6,7 @@ php 8.2 needs to be installed alongside with composer
 composer install
 npm install
 cp .env.example .env
+php artisan key:generate
 ```
 
 ## run
