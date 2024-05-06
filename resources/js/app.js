@@ -1,5 +1,6 @@
 import "./bootstrap";
 import { createInertiaApp } from "@westacks/inertia-svelte";
+// import { createInertiaApp } from "@inertiajs/svelte";
 import Layout from './layout.svelte';
 
 createInertiaApp({
